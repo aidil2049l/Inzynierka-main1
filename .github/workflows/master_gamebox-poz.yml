@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'GameBox-poz'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E9F24A3D5654C4CA302D3E390105C64 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70FD37AC4E304B11A9148A7314ED5380 }}
           package: .
